@@ -1,2 +1,2 @@
 # UploadPhotosJS
-Simple upload to FireBolt
+Simple upload to FireBase
